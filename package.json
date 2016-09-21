@@ -1,0 +1,35 @@
+{
+  "name": "deploy-by-rsync",
+  "version": "0.0.9",
+  "description": "Script for deployment many projects via rsync",
+  "main": "index.js",
+  "bin": {
+    "deploy-by-rsync": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emgyrz/deploy-by-rsync.git"
+  },
+  "keywords": [
+    "deploy",
+    "rsync",
+    "nodejs"
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "author": "emgyrz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emgyrz/deploy-by-rsync/issues"
+  },
+  "homepage": "https://github.com/emgyrz/deploy-by-rsync#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0",
+    "yargs": "^4.8.1"
+  }
+}
