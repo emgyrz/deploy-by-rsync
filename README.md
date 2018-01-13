@@ -1,4 +1,4 @@
-# deploy-by-rsync
+# deploy-by-rsync [DEPRECATED]
 Script for deployment many projects via rsync
 
-### In development. Don't use this package until 1.* version
+### Don't use this package
