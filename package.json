@@ -1,6 +1,6 @@
 {
   "name": "deploy-by-rsync",
-  "version": "0.0.9",
+  "version": "0.0.99",
   "description": "Script for deployment many projects via rsync",
   "main": "index.js",
   "bin": {
